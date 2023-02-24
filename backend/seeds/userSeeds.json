@@ -1,0 +1,28 @@
+[
+    {
+        "username": "Emily Anderson",
+        "email": "emily.anderson@email.com",
+        "password": "Emanderson2023"
+    },
+    {
+        "username": "John Wick",
+        "email": "john.wick@email.com",
+        "password": "Jwicked2023"
+    },
+    {
+        "username": "Samantha Lee",
+        "email": "samantha.lee@email.com",
+        "password": "SamLee2023"
+      },
+      {
+        "username": "David Chen",
+        "email": "david.chen@email.com",
+        "password": "Dchen2023"
+      },
+      {
+        "username": "Jessica Williams",
+        "email": "jessica.williams@email.com",
+        "password": "Jwilliams2023"
+      }
+
+]

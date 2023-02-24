@@ -1,0 +1,21 @@
+{
+  "name": "esoteric",
+  "version": "1.0.0",
+  "description": "A final project for coding bootcamp",
+  "main": "server.js",
+  "scripts": {
+    "start": "concurrently -k\"npm run start:backend\" \"npm run start:frontend\"",
+    "start:backend": "cd backend/&& npm start",
+    "start:frontend": "cd frontend/&& npm start"
+  },
+  "author": "Bondit Sinlee",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  }
+}
